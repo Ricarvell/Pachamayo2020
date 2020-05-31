@@ -1,13 +1,15 @@
 # Pachamayo2020
 Clases virtuales
 Del Sábado 30 de Mayo del 2020
-# En medio de plena pandemia
+# Pacha-Q-Tech
 
-- Aprendiendo GitHub
-    > Que me parece más fácil que GitLab y lo prefiero
+![alt text](http://https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif)
 
-- No he tomado desayuno
-    > Tampoco tengo hambre
+- Aprendiendo **GitHub**
+    > Que me parece más fácil que GitLab.
+
+- Aprendiendo GitLab
+    > Me quedo con **GitHub**
 
 # Archivo de Prueba
-**Hackathon** en **Sabbath**
+Primer **Hackathon** en el **Sabbath** 30 de Mayo del 2020
