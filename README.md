@@ -13,5 +13,8 @@ Del Sábado 30 de Mayo del 2020
 - Aprendiendo GitLab
     > Me quedo con **GitHub**
 
+- He añadido una plantilla en forma de comentario en el archivo index.html
+    > Dentro de SE01-EP02 **Usar con Precaución**
+
 # Archivo de Prueba
 Primer **Hackathon** en el **Sabbath** 30 de Mayo del 2020
