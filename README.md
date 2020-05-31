@@ -7,7 +7,7 @@ Del Sábado 30 de Mayo del 2020
 
 <img src="http://https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif" alt="GIF"/>
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
+[![asciicast](http://https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif)](http://https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif)
 
 - Aprendiendo **GitHub**
     > Que me parece más fácil que GitLab.
