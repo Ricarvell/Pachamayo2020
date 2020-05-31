@@ -3,11 +3,7 @@ Clases virtuales
 Del Sábado 30 de Mayo del 2020
 # Pacha-Q-Tech
 
-![github-small](http://https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif)
-
-<img src="http://https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif" alt="GIF"/>
-
-[![asciicast](http://https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif)](http://https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif)
+![alt tag](https://2.bp.blogspot.com/-kbQqsh5bUf8/Wjg8JhziS0I/AAAAAAAACq4/QWahGIe6PE8MQAtRD9Bu7ZdLH5F7IH9XgCLcBGAs/s1600/maxresdefault.jpg)
 
 - Aprendiendo **GitHub**
     > Que me parece más fácil que GitLab.
