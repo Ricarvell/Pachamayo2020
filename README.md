@@ -5,6 +5,8 @@ Del Sábado 30 de Mayo del 2020
 
 ![alt text](http://https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif)
 
+<img src="http://https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif" alt="GIF"/>
+
 - Aprendiendo **GitHub**
     > Que me parece más fácil que GitLab.
 
