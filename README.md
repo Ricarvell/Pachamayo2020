@@ -3,7 +3,7 @@ Clases virtuales
 Del Sábado 30 de Mayo del 2020
 # Pacha-Q-Tech
 
-# Existe un comentario en esta página el cual no es posible verlo desde acá
+Existe un comentario en esta página el cual no es posible verlo desde acá
 
 <!-- ![alt tag](https://2.bp.blogspot.com/-kbQqsh5bUf8/Wjg8JhziS0I/AAAAAAAACq4/QWahGIe6PE8MQAtRD9Bu7ZdLH5F7IH9XgCLcBGAs/s1600/maxresdefault.jpg) -->
 
